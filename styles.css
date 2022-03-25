@@ -20,8 +20,9 @@ th {
     color: white
 }
 
-strong {
+p {
     color: #000;
+    font-weight: bold;
 }
 
 
