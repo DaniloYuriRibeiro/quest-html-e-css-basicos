@@ -3,16 +3,17 @@
     padding: 100px;
 }
 
-.produtos-moda-td {
-    background-color: #424250;
-}
-
 .produtos-casa-th {
     background-color: #00C4B4;
 }
 
-.produtos-casa-td {
+td {
+    padding: 5px;
     background-color: #424250;
+}
+
+th {
+    padding: 5px;
 }
 
 * {
@@ -23,10 +24,5 @@ strong {
     color: #000;
 }
 
-th {
-    padding: 5px;
-}
+
     
-td {
-    padding: 5px;
-}
