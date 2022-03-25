@@ -1,0 +1,32 @@
+.produtos-moda-th {
+    background-color: #BB86FC;
+    padding: 100px;
+}
+
+.produtos-moda-td {
+    background-color: #424250;
+}
+
+.produtos-casa-th {
+    background-color: #00C4B4;
+}
+
+.produtos-casa-td {
+    background-color: #424250;
+}
+
+* {
+    color: white
+}
+
+strong {
+    color: #000;
+}
+
+th {
+    padding: 5px;
+}
+    
+td {
+    padding: 5px;
+}
